@@ -1,0 +1,12 @@
+08:57:53.793 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ******Clicked on continue*********
+08:57:53.840 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ********Validating Massage*********
+08:57:53.841 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Test passed
+08:57:53.845 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ******Finished Test case************
+08:57:55.638 [main] INFO  testCases.Tc_002_LoginTest - ****Starting Tc_002_LoginTest****
+08:57:55.639 [main] DEBUG testCases.Tc_002_LoginTest - capturing application debuglogs....
+08:57:56.101 [main] INFO  testCases.Tc_002_LoginTest - we clicked on my account link
+08:57:56.657 [main] INFO  testCases.Tc_002_LoginTest - we clicked on loginlink...
+08:57:56.660 [main] INFO  testCases.Tc_002_LoginTest - entering valid details
+08:57:57.417 [main] INFO  testCases.Tc_002_LoginTest - clicked on login button...
+08:57:57.457 [main] INFO  testCases.Tc_002_LoginTest - login test passed
+08:57:57.457 [main] INFO  testCases.Tc_002_LoginTest - ****Ending  Tc_002_LoginTest****
