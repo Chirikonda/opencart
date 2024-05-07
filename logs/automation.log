@@ -10,3 +10,41 @@
 08:57:57.417 [main] INFO  testCases.Tc_002_LoginTest - clicked on login button...
 08:57:57.457 [main] INFO  testCases.Tc_002_LoginTest - login test passed
 08:57:57.457 [main] INFO  testCases.Tc_002_LoginTest - ****Ending  Tc_002_LoginTest****
+13:55:52.277 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\achir\Desktop\Gow\Opencart\final.xml"
+13:56:01.117 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *********Starting Tc_001_AccountRegistrationTest************
+13:56:01.117 [main] DEBUG testCases.Tc_001_AccountRegistrationTest - application logs..........
+13:56:02.412 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ****Clicked on Myaccount link*********
+13:56:03.753 [main] INFO  testCases.Tc_001_AccountRegistrationTest - **********Clicked on registration link******
+13:56:03.791 [main] INFO  testCases.Tc_001_AccountRegistrationTest - **********Entering customer information******
+13:56:04.766 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ****Clicked on agree*****
+13:56:08.147 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ******Clicked on continue*********
+13:56:08.208 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ********Validating Massage*********
+13:56:08.208 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Test passed
+13:56:08.216 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ******Finished Test case************
+13:56:10.496 [main] INFO  testCases.Tc_002_LoginTest - ****Starting Tc_002_LoginTest****
+13:56:10.496 [main] DEBUG testCases.Tc_002_LoginTest - capturing application debuglogs....
+13:56:11.021 [main] INFO  testCases.Tc_002_LoginTest - we clicked on my account link
+13:56:11.846 [main] INFO  testCases.Tc_002_LoginTest - we clicked on loginlink...
+13:56:11.859 [main] INFO  testCases.Tc_002_LoginTest - entering valid details
+13:56:13.124 [main] INFO  testCases.Tc_002_LoginTest - clicked on login button...
+13:56:13.220 [main] INFO  testCases.Tc_002_LoginTest - login test passed
+13:56:13.221 [main] INFO  testCases.Tc_002_LoginTest - ****Ending  Tc_002_LoginTest****
+10:58:00.391 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\achir\Desktop\Gow\Opencart\final.xml"
+10:58:07.432 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *********Starting Tc_001_AccountRegistrationTest************
+10:58:07.433 [main] DEBUG testCases.Tc_001_AccountRegistrationTest - application logs..........
+10:58:07.949 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ****Clicked on Myaccount link*********
+10:58:08.657 [main] INFO  testCases.Tc_001_AccountRegistrationTest - **********Clicked on registration link******
+10:58:08.659 [main] INFO  testCases.Tc_001_AccountRegistrationTest - **********Entering customer information******
+10:58:09.180 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ****Clicked on agree*****
+10:58:12.007 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ******Clicked on continue*********
+10:58:12.053 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ********Validating Massage*********
+10:58:12.053 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Test passed
+10:58:12.056 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ******Finished Test case************
+10:58:14.004 [main] INFO  testCases.Tc_002_LoginTest - ****Starting Tc_002_LoginTest****
+10:58:14.005 [main] DEBUG testCases.Tc_002_LoginTest - capturing application debuglogs....
+10:58:14.524 [main] INFO  testCases.Tc_002_LoginTest - we clicked on my account link
+10:58:15.028 [main] INFO  testCases.Tc_002_LoginTest - we clicked on loginlink...
+10:58:15.031 [main] INFO  testCases.Tc_002_LoginTest - entering valid details
+10:58:15.796 [main] INFO  testCases.Tc_002_LoginTest - clicked on login button...
+10:58:15.846 [main] INFO  testCases.Tc_002_LoginTest - login test passed
+10:58:15.846 [main] INFO  testCases.Tc_002_LoginTest - ****Ending  Tc_002_LoginTest****
