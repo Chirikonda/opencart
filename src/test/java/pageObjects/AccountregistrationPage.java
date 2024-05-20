@@ -84,76 +84,15 @@ public class AccountregistrationPage extends BasePage {
 	
 		public void clickagree() throws  InterruptedException {
 			
-			//
+			
 			buttnagree.click();
 			
-			//btnagree.submit();
-			
-			//buttnagree.sendKeys(Keys.RETURN);
-			/*JavascriptExecutor js=(JavascriptExecutor)driver;
-			js.executeScript("arguments[0].click();", buttnagree);*/
-			//buttnagree.click();
-		
-	
-			/*try {
-			WebElement buttnagree=driver.findElement(By.xpath("//input[@name='agree']"));
-				//buttnagree.click();
-			JavascriptExecutor js=(JavascriptExecutor)driver;
-			//js.executeScript("arguments[0].click();", buttnagree);
-			
 			}
-			catch(StaleElementReferenceException e) {
-				System.out.println(e.getMessage());
-				
-				WebElement buttnagree=driver.findElement(By.xpath("//input[@name='agree']"));
-				//buttnagree.click();
-				
-					
-				JavascriptExecutor js=(JavascriptExecutor)driver;
-				//js.executeScript("arguments[0].click();", buttnagree);
-				
-				
-		
-				System.out.println(e.getMessage());
-			}
-			
-		
-			//buttnagree.click();
-			
-			
-			/*Actions act=new Actions(driver);
-			act.moveToElement(buttnagree).click().build().perform();
-			buttnagree.sendKeys(Keys.RETURN);
-			/*WebDriverWait wait=new WebDriverWait(WebDriver driver,Duration.ofSeconds(10));
-			wait.until(ExpectedConditions.elementToBeClickable(btnagree)).click();
-		wait.until(ExpectedConditions.elementToBeClickable(btnagree)).click();*/
-		 
-			 
-		}
 		
 		public void  clicksubmitt() throws InterruptedException {
 			 btnsubmit.click();
 
 			
-			/*try {
-				 
-				//btnsubmit.click();
-				WebElement continu=driver.findElement(By.xpath("//button[@type='submit']"));
-				// continu.click();
-				/*JavascriptExecutor js=(JavascriptExecutor)driver;
-				//js.executeScript("arguments[0].click();", continu);*/
-				
-				
-				/*}
-				catch(Exception e) {
-					System.out.println(e.getMessage());
-					WebElement continu=driver.findElement(By.xpath("//button[@type='submit']"));
-					// continu.click();
-					
-					/*WebElement continu=driver.findElement(By.xpath("//button[@type='submit']"));
-					JavascriptExecutor js=(JavascriptExecutor)driver;
-					js.executeScript("arguments[0].click();", continu);*/
-					
 				
 			
 			

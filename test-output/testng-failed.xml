@@ -7,27 +7,14 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
-    <groups>
-      <run>
-        <include name="sanity"/>
-        <include name="regression"/>
-      </run>
-    </groups>
     <classes>
-      <class name="testCases.Tc_002_LoginTest">
+      <class name="testCases.Tc_003_LoginDDT">
         <methods>
           <include name="teardown"/>
-          <include name="verfiylogin"/>
+          <include name="verify_loginDDT" invocation-numbers="3"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.Tc_002_LoginTest -->
-      <class name="testCases.Tc_001_AccountRegistrationTest">
-        <methods>
-          <include name="teardown"/>
-          <include name="testmethod"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCases.Tc_001_AccountRegistrationTest -->
+      </class> <!-- testCases.Tc_003_LoginDDT -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

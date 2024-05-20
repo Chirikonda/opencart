@@ -45,8 +45,9 @@ public class BaseClass {
 		p=new Properties();
 		p.load(file);
 		
-		/*if(p.getProperty("execution_env").equalsIgnoreCase("remote")) {
+		if(p.getProperty("execution_env").equalsIgnoreCase("remote")) {
 			
+			//DesiredCapabilities cp=new DesiredCapabilities();
 			DesiredCapabilities cp=new DesiredCapabilities();
 			//os
 			if(os.equalsIgnoreCase("windows")) {
@@ -90,7 +91,7 @@ public class BaseClass {
 		
 		
 		
-		}*/
+		}
 		
 		//browser
 		switch(br.toLowerCase()) {

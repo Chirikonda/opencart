@@ -1,50 +1,47 @@
-08:57:53.793 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ******Clicked on continue*********
-08:57:53.840 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ********Validating Massage*********
-08:57:53.841 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Test passed
-08:57:53.845 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ******Finished Test case************
-08:57:55.638 [main] INFO  testCases.Tc_002_LoginTest - ****Starting Tc_002_LoginTest****
-08:57:55.639 [main] DEBUG testCases.Tc_002_LoginTest - capturing application debuglogs....
-08:57:56.101 [main] INFO  testCases.Tc_002_LoginTest - we clicked on my account link
-08:57:56.657 [main] INFO  testCases.Tc_002_LoginTest - we clicked on loginlink...
-08:57:56.660 [main] INFO  testCases.Tc_002_LoginTest - entering valid details
-08:57:57.417 [main] INFO  testCases.Tc_002_LoginTest - clicked on login button...
-08:57:57.457 [main] INFO  testCases.Tc_002_LoginTest - login test passed
-08:57:57.457 [main] INFO  testCases.Tc_002_LoginTest - ****Ending  Tc_002_LoginTest****
-13:55:52.277 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\achir\Desktop\Gow\Opencart\final.xml"
-13:56:01.117 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *********Starting Tc_001_AccountRegistrationTest************
-13:56:01.117 [main] DEBUG testCases.Tc_001_AccountRegistrationTest - application logs..........
-13:56:02.412 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ****Clicked on Myaccount link*********
-13:56:03.753 [main] INFO  testCases.Tc_001_AccountRegistrationTest - **********Clicked on registration link******
-13:56:03.791 [main] INFO  testCases.Tc_001_AccountRegistrationTest - **********Entering customer information******
-13:56:04.766 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ****Clicked on agree*****
-13:56:08.147 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ******Clicked on continue*********
-13:56:08.208 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ********Validating Massage*********
-13:56:08.208 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Test passed
-13:56:08.216 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ******Finished Test case************
-13:56:10.496 [main] INFO  testCases.Tc_002_LoginTest - ****Starting Tc_002_LoginTest****
-13:56:10.496 [main] DEBUG testCases.Tc_002_LoginTest - capturing application debuglogs....
-13:56:11.021 [main] INFO  testCases.Tc_002_LoginTest - we clicked on my account link
-13:56:11.846 [main] INFO  testCases.Tc_002_LoginTest - we clicked on loginlink...
-13:56:11.859 [main] INFO  testCases.Tc_002_LoginTest - entering valid details
-13:56:13.124 [main] INFO  testCases.Tc_002_LoginTest - clicked on login button...
-13:56:13.220 [main] INFO  testCases.Tc_002_LoginTest - login test passed
-13:56:13.221 [main] INFO  testCases.Tc_002_LoginTest - ****Ending  Tc_002_LoginTest****
-10:58:00.391 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\achir\Desktop\Gow\Opencart\final.xml"
-10:58:07.432 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *********Starting Tc_001_AccountRegistrationTest************
-10:58:07.433 [main] DEBUG testCases.Tc_001_AccountRegistrationTest - application logs..........
-10:58:07.949 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ****Clicked on Myaccount link*********
-10:58:08.657 [main] INFO  testCases.Tc_001_AccountRegistrationTest - **********Clicked on registration link******
-10:58:08.659 [main] INFO  testCases.Tc_001_AccountRegistrationTest - **********Entering customer information******
-10:58:09.180 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ****Clicked on agree*****
-10:58:12.007 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ******Clicked on continue*********
-10:58:12.053 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ********Validating Massage*********
-10:58:12.053 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Test passed
-10:58:12.056 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ******Finished Test case************
-10:58:14.004 [main] INFO  testCases.Tc_002_LoginTest - ****Starting Tc_002_LoginTest****
-10:58:14.005 [main] DEBUG testCases.Tc_002_LoginTest - capturing application debuglogs....
-10:58:14.524 [main] INFO  testCases.Tc_002_LoginTest - we clicked on my account link
-10:58:15.028 [main] INFO  testCases.Tc_002_LoginTest - we clicked on loginlink...
-10:58:15.031 [main] INFO  testCases.Tc_002_LoginTest - entering valid details
-10:58:15.796 [main] INFO  testCases.Tc_002_LoginTest - clicked on login button...
-10:58:15.846 [main] INFO  testCases.Tc_002_LoginTest - login test passed
-10:58:15.846 [main] INFO  testCases.Tc_002_LoginTest - ****Ending  Tc_002_LoginTest****
+10:24:44.319 [main] DEBUG org.apache.poi.hssf.usermodel.HSSFSheet - Time at start of cell creating in HSSF sheet = 1715966684319
+10:24:44.323 [main] DEBUG org.apache.poi.hssf.usermodel.HSSFSheet - total sheet cell creation took 4ms
+10:24:44.323 [main] DEBUG org.apache.poi.hssf.model.InternalSheet - sheet createSheet (existing file) exited
+10:24:44.324 [main] DEBUG org.apache.poi.hssf.usermodel.HSSFSheet - Time at start of cell creating in HSSF sheet = 1715966684324
+10:24:44.324 [main] DEBUG org.apache.poi.hssf.usermodel.HSSFSheet - total sheet cell creation took 0ms
+10:24:44.324 [main] DEBUG org.apache.poi.hssf.model.InternalSheet - sheet createSheet (existing file) exited
+10:24:44.324 [main] DEBUG org.apache.poi.hssf.usermodel.HSSFSheet - Time at start of cell creating in HSSF sheet = 1715966684324
+10:24:44.325 [main] DEBUG org.apache.poi.hssf.usermodel.HSSFSheet - total sheet cell creation took 1ms
+10:24:44.328 [main] DEBUG org.apache.poi.hssf.model.InternalWorkbook - Workbook (readfile) created with reclen=180
+10:24:44.328 [main] DEBUG org.apache.poi.hssf.model.InternalWorkbook - exit create workbook from existing file function
+10:24:44.328 [main] DEBUG org.apache.poi.hssf.usermodel.HSSFWorkbook - convertLabelRecords called
+10:24:44.328 [main] DEBUG org.apache.poi.hssf.usermodel.HSSFWorkbook - convertLabelRecords exit
+10:24:44.328 [main] DEBUG org.apache.poi.hssf.model.InternalSheet - sheet createSheet (existing file) exited
+10:24:44.328 [main] DEBUG org.apache.poi.hssf.usermodel.HSSFSheet - Time at start of cell creating in HSSF sheet = 1715966684328
+10:24:44.329 [main] DEBUG org.apache.poi.hssf.usermodel.HSSFSheet - total sheet cell creation took 0ms
+10:24:44.329 [main] DEBUG org.apache.poi.hssf.model.InternalSheet - sheet createSheet (existing file) exited
+10:24:44.329 [main] DEBUG org.apache.poi.hssf.usermodel.HSSFSheet - Time at start of cell creating in HSSF sheet = 1715966684329
+10:24:44.329 [main] DEBUG org.apache.poi.hssf.usermodel.HSSFSheet - total sheet cell creation took 0ms
+10:24:44.329 [main] DEBUG org.apache.poi.hssf.model.InternalSheet - sheet createSheet (existing file) exited
+10:24:44.329 [main] DEBUG org.apache.poi.hssf.usermodel.HSSFSheet - Time at start of cell creating in HSSF sheet = 1715966684329
+10:24:44.329 [main] DEBUG org.apache.poi.hssf.usermodel.HSSFSheet - total sheet cell creation took 0ms
+10:24:44.350 [main] INFO  testCases.Tc_003_LoginDDT - ***Starting Tc_003_LoginDDT ***
+10:24:46.207 [main] INFO  testCases.Tc_003_LoginDDT - ***Finshed Datadriven Test***
+10:24:46.228 [main] INFO  testCases.Tc_003_LoginDDT - ***Starting Tc_003_LoginDDT ***
+10:24:47.898 [main] INFO  testCases.Tc_003_LoginDDT - ***Finshed Datadriven Test***
+10:24:47.907 [main] INFO  testCases.Tc_003_LoginDDT - ***Starting Tc_003_LoginDDT ***
+10:25:03.314 [main] INFO  testCases.Tc_003_LoginDDT - ***Finshed Datadriven Test***
+10:25:03.318 [main] INFO  testCases.Tc_003_LoginDDT - ***Starting Tc_003_LoginDDT ***
+10:35:46.247 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\achir\Desktop\Gow\Opencart\final.xml"
+10:35:50.398 [main] INFO  testCases.Tc_001_AccountRegistrationTest - *********Starting Tc_001_AccountRegistrationTest************
+10:35:50.398 [main] DEBUG testCases.Tc_001_AccountRegistrationTest - application logs..........
+10:35:50.915 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ****Clicked on Myaccount link*********
+10:35:51.500 [main] INFO  testCases.Tc_001_AccountRegistrationTest - **********Clicked on registration link******
+10:35:51.522 [main] INFO  testCases.Tc_001_AccountRegistrationTest - **********Entering customer information******
+10:35:52.002 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ****Clicked on agree*****
+10:35:54.533 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ******Clicked on continue*********
+10:35:54.567 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ********Validating Massage*********
+10:35:54.567 [main] INFO  testCases.Tc_001_AccountRegistrationTest - Test passed
+10:35:54.570 [main] INFO  testCases.Tc_001_AccountRegistrationTest - ******Finished Test case************
+10:35:57.287 [main] INFO  testCases.Tc_002_LoginTest - ****Starting Tc_002_LoginTest****
+10:35:57.288 [main] DEBUG testCases.Tc_002_LoginTest - capturing application debuglogs....
+10:35:57.749 [main] INFO  testCases.Tc_002_LoginTest - we clicked on my account link
+10:35:58.250 [main] INFO  testCases.Tc_002_LoginTest - we clicked on loginlink...
+10:35:58.254 [main] INFO  testCases.Tc_002_LoginTest - entering valid details
+10:35:59.137 [main] INFO  testCases.Tc_002_LoginTest - clicked on login button...
+10:35:59.219 [main] INFO  testCases.Tc_002_LoginTest - login test passed
+10:35:59.220 [main] INFO  testCases.Tc_002_LoginTest - ****Ending  Tc_002_LoginTest****
